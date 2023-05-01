@@ -16,7 +16,7 @@
             var secondNumber = parseFloat(document.getElementById("num2").value);
             var sum = firstNumber -  secondNumber;
 
-            alert('The sum is:' + difference);
+            alert('The sum is:' + sum);
         }
 
         function clearNumbers() {
